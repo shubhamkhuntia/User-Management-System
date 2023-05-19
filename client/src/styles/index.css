@@ -1,4 +1,5 @@
 body {
+  
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -20,6 +21,7 @@ code {
 }
 
 .page-bar {
+  /* color: green; */
   width: 100%;
 }
 
@@ -48,6 +50,7 @@ code {
 }
 
 .container {
+  
   position: relative;
   /* top: 20px; */
 }
@@ -69,16 +72,18 @@ code {
 }
 
 .page-bar {
+  
   display: flex;
 }
 
 .page-list {
+  
   display: flex;
   list-style: none;
 }
 
 .btn-active {
-  background: cyan;
+  background: green;
 }
 
 .btn-disactive {
