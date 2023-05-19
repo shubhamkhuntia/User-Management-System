@@ -1,14 +1,7 @@
 
+![Screenshot (14)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/96151256-07e5-4ae4-ab29-6b4c5f832e40)
 
-![Screenshot (9)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/8b76811f-af75-4b78-9f3c-a16685fea5e6)
-
-![Screenshot (10)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/1bb7a9c7-a7cb-4609-bc99-4784c7de56f6)
-
-![Screenshot (11)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/535afdf0-8dcf-4d41-8049-4abe5a4eddad)
-
-![Screenshot (12)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/81330ab6-eed4-4dd0-84f9-695e99d9152b)
-
-https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/33ad58ef-29ed-463e-9b0c-0c763d450a7d
+![Screenshot (13)](https://github.com/shubhamkhuntia/User-Management-System/assets/64825318/5d4018a2-7ba8-4ada-bb9f-3239c61298b4)
 
 This project is an customer management system built with React, Node.js, Express, MongoDB and Bootstrap
 
